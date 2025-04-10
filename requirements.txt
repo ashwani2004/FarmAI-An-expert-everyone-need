@@ -1,0 +1,6 @@
+requirements are for this projects:
+numpy
+pandas
+tensorflow
+scikit-learn
+joblib
